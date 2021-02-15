@@ -25,11 +25,9 @@
         // my select
         "ms-python.python",
         "donjayamanne.python-extension-pack",
-        "jithurjacob.nbpreviewer",
         "visualstudioexptteam.vscodeintellicode",
         "knisterpeter.vscode-github",
         "github.vscode-pull-request-github",
-        "magicstack.magicpython",
         "hbenl.vscode-test-explorer",
         "njpwerner.autodocstring",
         "kevinrose.vsc-python-indent",
